@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerymonti
 - 👀 I’m interested in StartUps
-- 🌱 I’m currently studying MSc in Aeronautical Engineering
+- 🌱 I’m currently the cofounder of invite
 - 💞️ I’m looking to collaborate on App Development
 - 📫 How to reach me ...
 
